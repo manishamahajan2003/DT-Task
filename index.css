@@ -1,0 +1,186 @@
+.navbar{
+    display: flex;
+    border: 1px solid black;
+}
+.container1{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.DT-logo{
+    border-radius: 50%;
+    height: 30px;
+    width: auto;
+    
+}
+.navbar span{
+color: blue;
+}
+.navbar h3{
+    color: black;
+}
+.navlist{
+    width: 30px;
+    height: auto;
+    border-radius: 1px solid black;
+}
+#navlist1{
+    margin-left: 950px;
+}
+#navlist2{
+    margin-left: 20px;
+}
+#navlist3{
+    margin-left: 20px;
+    width: 50px;
+    height: auto;
+}
+.container-left{
+    Width:132px;
+    Height:692px;
+    Top:140px;
+    
+    border: 1px solid black;
+}
+.black{
+    width: 132px;
+    height: 30px;
+    background-color: black;
+    border: 1px solid black;
+    
+}
+.con1{
+     width: 50px;
+     height: 50px;
+     border: black solid 1px;
+     margin: 30px;
+     border-radius: 10px;
+     text-align: center;
+}
+.con1 h3{
+    margin-top: 10px;
+}
+.container-right{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    width: 30px;
+    height: 380px;
+    
+}
+.container-all{
+    display: flex;
+}
+.container-middle{
+    color: blue;
+    margin: 30px;
+    padding-left: 20px;
+}
+.container-middle h4,p{
+    color: black;
+    margin: 10px;
+    padding: 10px;
+   
+}
+.div-mid{
+    background-color: rgb(209, 208, 208);
+    margin: 10px;
+    border-radius: 20px;
+}
+.sumbit-1{
+    display: flex;
+
+}
+.sumbit-1 button{
+    background-color: rgb(19, 19, 244);
+    width: 100px;
+    height: 30px;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+.zoommeeting{
+    width: 400px;
+    height: 450px;
+    border: black inset 1px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    margin-left: 60px;
+}
+.zoomimg{
+    width: 500px;
+    width: 400px;
+    
+}
+.h3{
+    background-color: black;
+}
+h3 p{
+    color: white;
+}
+.zoommeeting p{
+    color: black;
+}
+.thread-build{
+    width: 400px;
+    height: 450px;
+    border: black inset 1px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 70px;
+}
+.zoom-thread{
+    display: flex;
+    margin: 20px;
+}
+.h3 h3{
+    color: black;
+    background-color: white;
+}
+.subthread{
+    border: 1px solid rgb(7, 7, 7);
+    width: 120px;
+    margin-left: 10px;
+}
+.subthread h4{
+    width: 100px;
+    height: 10px;
+}
+.text input{
+    width: 80px;
+    margin: 10px;
+}
+.threadA{
+    display: flex;
+}
+.dropdownbuttons{
+    display: flex;
+}
+.dropdown{
+    width: 50px;
+    margin-left: 10px;
+}
+.thread-sumbit{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.format{
+    display: flex;
+    border: 1px solid rgb(180, 179, 179);
+    margin: 10px;
+   
+}
+.format h5{
+    margin-left: 10px;
+}
+
+
+
+
+
+
